@@ -3,6 +3,8 @@ import os, sys
 
 from pygame.locals import *
 
+sys.path.append('../')
+
 # Load image and throw error if image cannot be loaded
 def load_image(name, colorkey = None):
 

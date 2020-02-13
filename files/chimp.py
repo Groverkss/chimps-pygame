@@ -82,5 +82,3 @@ def main():
         pygame.display.flip()
 
     pygame.quit
-
-main()
